@@ -3,3 +3,13 @@
 .idea/
 StraightEdgeBarbershopWebsite.iml
 startbootstrap-business-casual-gh-pages/
+!/.gitignore
+!/startbootstrap-business-casual-gh-pages/css/bootstrap.css
+!/startbootstrap-business-casual-gh-pages/css/business-casual.css
+!/startbootstrap-business-casual-gh-pages/about.html
+!/startbootstrap-business-casual-gh-pages/blog.html
+!/startbootstrap-business-casual-gh-pages/contact.html
+/startbootstrap-business-casual-gh-pages/form-handler.php
+!/startbootstrap-business-casual-gh-pages/form-handler.php
+!/startbootstrap-business-casual-gh-pages/form-handler-nodb.php
+!/startbootstrap-business-casual-gh-pages/index.html
